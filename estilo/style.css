@@ -76,7 +76,10 @@ section {
 }
 
 section > p {
-    padding-bottom: 2em;
+    
+    border: 5px;
+    padding: 5px;
+    margin: 5px;
 }
 
 section.imagem {
